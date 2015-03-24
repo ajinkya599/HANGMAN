@@ -1,0 +1,291 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Hangman
+</name>
+</assembly>
+<members>
+<member name="P:Hangman.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._1_0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._1_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._1_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._1_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._1_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._1_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._1_6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._2_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._2_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._2_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._2_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._2_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._3_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._3_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._3_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._3_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._4_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._4_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._4_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._5_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._5_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._5_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._7">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources._8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.answers_01">
+	<summary>
+  Looks up a localized string similar to rm
+cpu
+html
+input
+rmdir
+.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.answers_02">
+	<summary>
+  Looks up a localized string similar to algorithm
+china
+earth
+jaundice
+taiwan.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.answers_03">
+	<summary>
+  Looks up a localized string similar to hen
+linux
+scurvy
+cloud
+windows.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.answers_04">
+	<summary>
+  Looks up a localized string similar to anatomy
+ls
+china
+coffee
+dominican republic.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.answers_05">
+	<summary>
+  Looks up a localized string similar to cfl
+jack
+compiler
+cfc
+aves.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.answers_06">
+	<summary>
+  Looks up a localized string similar to Hi
+There
+Are 
+You
+.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.bg_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.bg_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.bg_3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.bg_4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.hints_01">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.hints_02">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.hints_03">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.hints_04">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.hints_05">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.hints_06">
+	<summary>
+  Looks up a localized string similar to .
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.questions_01">
+	<summary>
+  Looks up a localized string similar to command is used to remove a file in unix
+"Brain" of a computer system
+Skeleton Of a web page
+Mouse is an _______ device
+command to remove a directory in unix
+.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.questions_02">
+	<summary>
+  Looks up a localized string similar to Steps used by a computer to solve a problem :
+
+Largest Population country :
+
+Our ancestors lived on :
+
+Person appearing pale may suffer from :
+
+A member country of UN Security Council in 1960 :
+.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.questions_03">
+	<summary>
+  Looks up a localized string similar to Closest living ancestor of dinosaur:
+
+Android is based on this Kernel:
+
+Deficiency of Vitamin C causes:
+
+A popular computing technique:
+
+Third most popular Smartfone OS:.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.questions_04">
+	<summary>
+  Looks up a localized string similar to Study of human body
+
+The LINUX command for listing the current directory
+
+Country with heighest incidence of livel cancer
+
+Most traded commodity after oil
+
+BANANA REPUBLIC was coined after this Carribean country.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.questions_05">
+	<summary>
+  Looks up a localized string similar to Energy efficient lighting
+
+5.5mm ____ is used for sound output
+
+Converts HLL to Machine Language
+
+Gases Released from Air Conditioner
+
+Birds fall under this Class.
+</summary>
+</member><member name="P:Hangman.My.Resources.Resources.Score">
+	<summary>
+  Looks up a localized string similar to 0.
+</summary>
+</member><member name="T:Hangman.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

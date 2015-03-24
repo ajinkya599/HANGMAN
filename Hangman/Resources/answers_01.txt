@@ -1,0 +1,5 @@
+rm
+cpu
+html
+input
+rmdir

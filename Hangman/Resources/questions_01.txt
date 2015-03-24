@@ -1,0 +1,5 @@
+command is used to remove a file in unix
+"Brain" of a computer system
+Skeleton Of a web page
+Mouse is an _______ device
+command to remove a directory in unix
